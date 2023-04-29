@@ -39,7 +39,7 @@ const seedDB = async () => {
             //https://res.cloudinary.com/dsfsiamms/image/upload/v1681665951/mt.-cook-cover_eexga3.jpg
             images: [
                 {
-                    url: 'https://res.cloudinary.com/dsfsiamms/image/upload/v1681665951/mt.-cook-cover_eexga3.jpg',
+                    url: 'https://res.cloudinary.com/dsfsiamms/image/upload/v1682690435/YelpCamp/qr054wvzkqvdt4ieojly.jpg',
                     filename: 'YelpCamp/sgnuf0zmtu8iaxpegu4x'
                 },
                 {
