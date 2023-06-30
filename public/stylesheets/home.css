@@ -14,13 +14,14 @@ body {
 }
 
 .px-3 h1{
-    font-family: cursive;
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
 }
 .lead{
     /* font-family: cursive; */
-    color: antiquewhite;
-
+    color: rgb(255, 255, 255);
+    font-weight:400;
+    text-align: justify;
 }
 
 .nav-link {
