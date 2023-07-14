@@ -12,6 +12,6 @@ All campgrounds + map
 User can add reviews and comments 
 ![Screenshot 2023-07-14 190115](https://github.com/HarleenKaur4733/ExploreHorizon/assets/130078136/2f1c1341-a5e7-447d-9079-c002531e13ff)
 
-User can also add its own campground
+User can also add their own campgrounds
 ![Screenshot 2023-07-14 190125](https://github.com/HarleenKaur4733/ExploreHorizon/assets/130078136/5d720375-3fc1-4a38-8cf0-de8521091dfe)
 
